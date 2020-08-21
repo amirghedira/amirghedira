@@ -73,7 +73,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="amir ghedira's Github Stats" src="https://github-readme-stats.amirghedira.vercel.app/api?username=amirghedira&show_icons=true&hide_border=true" />
+  <img align="left" alt="amir ghedira's Github Stats" src="https://github-readme-stats.amirghedira/api?username=amirghedira&show_icons=true&hide_border=true" />
 
 </details>
 
