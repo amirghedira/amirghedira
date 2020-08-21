@@ -5,7 +5,7 @@
 
 ## I'm a FullStack Developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on fullstack web applications
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -73,7 +73,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="amir ghedira's Github Stats" src="https://github-readme-stats.amirghedira.vercel.app/api?username=amirghedira&show_icons=true&hide_border=true" />
 
 </details>
 
