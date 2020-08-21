@@ -1,6 +1,6 @@
 ### Hi there, I'm amir ghedira [website] 👋
 
-[![Website](https://img.shields.io/Amir-PlatForm?label=amir-ghedira.com&style=for-the-badge&url=https%3A%2F%amir-ghedira.com)](https://amir-ghedira.com)
+[![Website](https://img.shields.io/website?label=amir-ghedira.com&style=for-the-badge&url=https%3A%2F%amir-ghedira.com)](https://amir-ghedira.com)
 
 
 ## I'm a FullStack Developer!
@@ -79,7 +79,3 @@
 
 [website]: https://amir-ghedira.com
 [linkedin]: https://www.linkedin.com/in/amir-ghédira-1053991a2/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
