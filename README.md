@@ -38,12 +38,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="amirghedira's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amirghedira&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://amir-ghedira.com
 [linkedin]: https://www.linkedin.com/in/amir-ghédira-1053991a2/
