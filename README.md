@@ -1,6 +1,6 @@
 ### Hi there, I'm amir ghedira [website] 👋
 
-[![Website](https://img.shields.io/website?label=amir-ghedira.com&style=for-the-badge&url=https%3A%2F%amir-ghedira.com)](https://www.amir-ghedira.com)
+[![Website](https://img.shields.io/website?label=www.amir-ghedira.com&style=for-the-badge&url=https%3A%2F%www.amir-ghedira.com)](https://www.amir-ghedira.com)
 
 
 ## I'm a FullStack Developer!
