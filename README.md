@@ -1,6 +1,6 @@
 ### Hi there, I'm amir ghedira [website] 👋
 
-[![Website](https://img.shields.io/website?label=amir-ghedira.com&style=for-the-badge&url=https%3A%2F%amir-ghedira.com)](https://amir-ghedira.com)
+[![Website](https://img.shields.io/website?label=amir-ghedira.com&style=for-the-badge&url=https%3A%2F%amir-ghedira.com)](https://www.amir-ghedira.com)
 
 
 ## I'm a FullStack Developer!
@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="www.amirghedira.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="www.amir-ghedira.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="amir Ghedira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
