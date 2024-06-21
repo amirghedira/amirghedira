@@ -1,23 +1,4 @@
-### Hi there, I'm amir ghedira [website] 👋
-
-[![Website](https://img.shields.io/website?label=www.amirghedira.com&style=for-the-badge&url=https://www.amirghedira.com)](https://www.amirghedira.com)
-
-
-## I'm a FullStack Developer!
-
-- 🔭 I’m currently working on fullstack web applications
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play snooker and billard
-
-
-### Connect with me:
-
-[<img align="left" alt="www.amirghedira.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="amir Ghedira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+### Hi there, I'm amir ghedira 👋
 
 ### Languages and Tools:
 
