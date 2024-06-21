@@ -18,7 +18,3 @@
 
 <br />
 <br />
-
-
-[website]: https://www.amirghedira.com
-[linkedin]: https://www.linkedin.com/in/amirghedira/
